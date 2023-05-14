@@ -14,7 +14,7 @@ public class CourseController {
             new Course(1,"Learn AWS","in28Minutes"),
             new Course(2,"Learn DevOps","in28Minutes"),
                 new Course(3, "Learn Microsoft Azure", "in28Minutes"),
-                new Course(4,"Learn Microsoft Azure","in28Minutes")
+                new Course(4,"Learn GCP","in28Minutes")
         );
     }
     
